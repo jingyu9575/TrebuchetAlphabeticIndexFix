@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trebuchet 字母索引修复</string>
+    <string name="xposeddescription">修复 Android 7 中 LineageOS Trebuchet 的字母索引</string>
+</resources>

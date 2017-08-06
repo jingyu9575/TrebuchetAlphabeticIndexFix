@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trebuchet AlphabeticIndex Fix</string>
+    <string name="xposeddescription">Fix the alphabetic index of LineageOS Trebuchet in Android 7</string>
+</resources>
